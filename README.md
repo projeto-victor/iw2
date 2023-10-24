@@ -11,3 +11,5 @@ https://projeto-victor.github.io/iw2/IMC/imc.html
 https://projeto-victor.github.io/iw2/exe/index.html
 ## juapana
 https://projeto-victor.github.io/iw2/juapana/index.html
+## orientação de objeto
+https://github.com/projeto-victor/iw2/orientacaoobj/index.html
